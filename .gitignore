@@ -1,0 +1,2 @@
+# Executables are published only as GitHub Release assets, never committed.
+*.exe
