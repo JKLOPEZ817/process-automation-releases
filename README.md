@@ -1,6 +1,6 @@
-# PROCESS AUTOMATION — public releases
+# MTC MoveMint — public releases
 
-This repository contains public, versioned Windows executable releases.
+This repository contains public, versioned Windows releases for MTC MoveMint, formerly PROCESS AUTOMATION.
 
 - Preserve existing release tags and assets.
 - Never replace an existing version's executable.
